@@ -1,0 +1,7 @@
+<resources>
+<string name="app_name">My Application</string>
+<string name="CS496_Project2">227022001024360</string>
+<string name="share">Share</string>
+    <string name="str_iv_flag">Flag</string>
+    <string name="menu_settings">Settings</string>
+</resources>
